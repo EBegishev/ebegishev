@@ -2,7 +2,9 @@
 layout: default
 ---
 
-## Welcome to another page
+## Jokes and Puns
+
+*A year-long collection*
 
 I tried to catch some fog. But I mist. 
 
