@@ -25,15 +25,6 @@ Email: ebegishev@ur.rochester.edu
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 
 
