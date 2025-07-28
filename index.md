@@ -14,7 +14,6 @@ Do you want to keep in touch?
 
 Email: ebegishev@ur.rochester.edu
 
-[Email](ebegishev@ur.rochester.edu).
 
 
 
@@ -22,7 +21,6 @@ Email: ebegishev@ur.rochester.edu
 
 
 
-
-If you are interested in any jokes/puns, feel free to visit my other page. 
+For jokes/puns, a year-long collection, please feel free to visit my other page: 
 
 [Jokes/Puns](./another-page.html).
