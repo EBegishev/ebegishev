@@ -1,5 +1,5 @@
 title: Erick Begishev
-description: Welcome to my personal website. 
+description: A Short Portfolio.  
 show_downloads: false
-google_analytics:
+google_analytics: true
 theme: jekyll-theme-tactile
